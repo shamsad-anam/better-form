@@ -1,0 +1,16 @@
+.better-form__heading {
+  font-size: 50px;
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+footer div {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.better-form__text-highlight {
+  font-weight: bold;
+  margin: 0 5px;
+}
